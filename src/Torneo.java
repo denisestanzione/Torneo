@@ -5,7 +5,8 @@
 
 /**
  *
- * @author Luigi
+ * @author Denise Stanzione
+  * @see Scheda esercitazione
  */
 public class Torneo {
 
